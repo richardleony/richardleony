@@ -5,32 +5,27 @@
 [![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/richard_leony22)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-leony-71b968174/)
 
-![richardleony GitHub stats](https://github-readme-stats.vercel.app/api?username=richardleony&show_icons=true&theme=dark)
-
-<hr>
-
-## Minhas Habilidades🛠
-
-### Front-End👨‍💻
 <div>
-<img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/richardleony">
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=richardleony&theme=blue-green"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardleony&theme=blue-green"/>
+</div>
 <hr>
-
-### Back-End💻
+  
+## Tecnologias e ferramentas🛠
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><div>
+<img align="center" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"height="40"/>
+<img align="center" alt="github" src="https://cdn.icon-icons.com/icons2/1996/PNG/512/code_development_github_open_source_programming_source_icon_123274.png" width="40" height="40"/>
+<img align="center" alt"html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img align="center" alt"css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img align="center" alt"wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width="40" height="40" /><br/>
+            
+ 
 <hr>
-
-### Databases🖥
-<div>
-
-<hr>
-
-### Tecnologias que Estou Estudando📚
-<div style="display: inline_block"><br/>
-<img align="center" alt"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt"css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt"javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt"mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt"php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt"wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /><br/>
+## Tecnologias que Estou Estudando📚
+<div style="display: inline_block">
+<img align="center" alt"Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt"Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img align="center" alt"Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  
 </div>
